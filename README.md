@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A high school student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-asati03&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-asati03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-asati03" alt="vedant-asati03" /></a> </p>
+I’m currently learning **Python**
 
-- 🌱 I’m currently learning **Python**
+How to reach me **vedant.asati03@gmail.com**
 
-- 📫 How to reach me **vedant.asati03@gmail.com**
-
-- ⚡ Fun fact **I think, I am great person to work with and I am funny too.**
+**I think, I am great person to work with and I am funny too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-asati03&" alt="vedant-asati03" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-asati03&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-asati03" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-asati03" alt="vedant-asati03" /></a> </p>
