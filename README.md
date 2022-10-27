@@ -2,7 +2,8 @@
 
 # About Me
 
-**I am Vedant Asati, I am from India and a High school student**
+**I am Vedant Asati, I am from India.
+**A High school student**
 
 
 How to reach me **vedant.asati03@gmail.com**
