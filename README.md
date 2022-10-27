@@ -2,7 +2,7 @@
 
 # About Me
 
-**I am Vedant Asati, I am from India.
+**I am Vedant Asati, I am from India.**
 **A High school student**
 
 
