@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">A high school student from India</h3>
+<h1 align="center">Hello Guys 👋, I'm Vedant</h1>
 
+# About Me
 
-I’m currently learning **Python**
+I am Vedant Asati, I am from India.
+`I am Currently a High school student`
 
 How to reach me **vedant.asati03@gmail.com**
 
