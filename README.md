@@ -1,12 +1,12 @@
 <h1 align="center">Hello Guys 👋</h1>
 
-# About Me
+# ✨About Me
 
 **I am Vedant Asati, I am from India.**
 **A High school student**
 
 
-How to reach me **vedant.asati03@gmail.com**
+How to reach me - **vedant.asati03@gmail.com**
 
 **I think, I am great person to work with and I am funny too.**
 
