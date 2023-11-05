@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Vedant+Asati03">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Vedant-Asati03+github">「 Google Me 」</a>
     <br>
     「 I am a back end developer from <b>India</b> 」
     <br>
