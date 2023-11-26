@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+![](https://komarev.com/ghpvc/?username=Vedant-Asati03)
 
 <!-- Intro  -->
 <h3 align="center">
