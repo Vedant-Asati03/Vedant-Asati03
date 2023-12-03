@@ -12,6 +12,13 @@
 
  -->
 
+ <a href="https://komarev.com/ghpvc/?username=Vedant-Asati03">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Vedant-Asati03&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+![](https://komarev.com/ghpvc/?username=Vedant-Asati03)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
