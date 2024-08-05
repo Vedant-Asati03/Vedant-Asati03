@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.bing.com/search?q=vedant-asati03&cvid=bc62c32c4985400182428c4d4d9abba4&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMzM5M2owajeoAgCwAgA&FORM=ANNTA0&PC=U531">「 Google Me 」</a>
     <br>
     「 I am a back end developer from <b>India</b> 」
     <br>
