@@ -73,37 +73,11 @@
 
 <br/>
 
-<p align="left">
-  <a href="https://github.com/Vedant-Asati03?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
-<div id="repos" style="display: flex; flex-wrap: wrap; gap: 20px;"></div>
+## Featured Repositories
 
-<script>
-  async function fetchRepos() {
-    const response = await fetch('https://api.github.com/users/Vedant-Asati03/repos');
-    const repos = await response.json();
-    const reposContainer = document.getElementById('repos');
-    repos.forEach(repo => {
-      const repoElement = document.createElement('div');
-      repoElement.style = `
-        border: 1px solid #e1e4e8;
-        border-radius: 6px;
-        padding: 16px;
-        width: 300px;
-        box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);
-      `;
-      repoElement.innerHTML = `
-        <h3><a href="${repo.html_url}" target="_blank">${repo.name}</a></h3>
-        <p>${repo.description || 'No description available'}</p>
-        <p>⭐ ${repo.stargazers_count} | 🍴 ${repo.forks_count}</p>
-      `;
-      reposContainer.appendChild(repoElement);
-    });
-  }
-
-  fetchRepos();
-</script>
+<!-- REPO-LIST-START -->
+<!-- REPO-LIST-END -->
 
 <br/>
 <hr/>
