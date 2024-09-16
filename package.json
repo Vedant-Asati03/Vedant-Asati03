@@ -1,0 +1,12 @@
+{
+  "name": "update-readme",
+  "version": "1.0.0",
+  "description": "Update README with latest repository data",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
