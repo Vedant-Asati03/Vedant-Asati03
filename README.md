@@ -82,7 +82,7 @@
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/Yggdrasill" target="_blank">Yggdrasill</a></h3>
     <p>A terminal based directory tree generator with a sleek looking TUI for easy management of your projects.</p>
-    <p>⭐ 0 | 🍴 0</p>
+    <p>⭐ 1 | 🍴 0</p>
   </div>
   
 
