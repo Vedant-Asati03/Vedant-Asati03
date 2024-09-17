@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Vedant Asati</a></b>
+                <b>Vedant Asati</b>
         </samp>
 </h3>
 
@@ -11,7 +11,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a freshman at Indian Institute of Science Education and Research 」
+    「 Freshman at Indian Institute of Science Education and Research 」
     <br>
     <br>
   </samp>
@@ -29,30 +29,34 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Vedant-Asati03/Vedant-Asati03/issues)
 
-</p>
+# About me
+
+✌️ &emsp; Enjoy to do programming and sharing knowledge
+<br/>
+❤️ &emsp; Love writing code and learning new features
+<br/>
+💬 &emsp; Ask me about anything [here](https://github.com/Vedant-Asati03/Vedant-Asati03/issues)
+
 
 <br/>
 <br/>
 
 ## Tools and Technologies
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TCS](https://img.shields.io/badge/Textual_CSS-38B2AC?style=for-the-badge&logo=Textual-css&logoColor=white)
 
 <br/>
 
