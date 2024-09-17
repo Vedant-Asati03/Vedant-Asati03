@@ -60,7 +60,6 @@
 
 <br/>
 
-
 ## Featured Repositories
 
 <!-- REPO-LIST-START -->
@@ -70,28 +69,28 @@
     <p>Aurras</p>
     <p>⭐ 5 | 🍴 1</p>
   </div>
-  
+
 
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/TerminalChess" target="_blank">TerminalChess</a></h3>
     <p>Terminal Chess is a text-based chess game implemented in Python. It features a Text User Interface (TUI) using the Textual framework, allowing for mouse interactions and a visually appealing chessboard display.</p>
     <p>⭐ 1 | 🍴 1</p>
   </div>
-  
+
 
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/Yggdrasill" target="_blank">Yggdrasill</a></h3>
     <p>A terminal based directory tree generator with a sleek looking TUI for easy management of your projects.</p>
     <p>⭐ 0 | 🍴 0</p>
   </div>
-  
+
 
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/Spamzee" target="_blank">Spamzee</a></h3>
     <p>This is a fun automated bot for spamming on various social media platforms</p>
     <p>⭐ 1 | 🍴 0</p>
   </div>
-  
+
 <!-- REPO-LIST-END -->
 
 <br/>
