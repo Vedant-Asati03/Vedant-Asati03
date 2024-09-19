@@ -74,7 +74,7 @@
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/Tusk" target="_blank">Tusk</a></h3>
     <p>🔥 Tusk: Where Vim meets sleek. Elevate your text game with ninja-worthy key bindings, real-time markdown magic, and an interface so smooth it could moonwalk. Whether you’re slinging code or crafting prose, Tusk’s got your back. 📝✨Feel free to Ctrl+C that brilliance!  Happy editing! 😄🚀🔍</p>
-    <p>⭐ 0 | 🍴 0</p>
+    <p>⭐ 1 | 🍴 0</p>
   </div>
   
 
