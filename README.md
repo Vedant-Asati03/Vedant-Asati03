@@ -66,7 +66,7 @@
 
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
     <h3><a href="https://github.com/Vedant-Asati03/Aurras" target="_blank">Aurras</a></h3>
-    <p>Aurras</p>
+    <p>Your Ultimate Music Companion 🎵  Aurras enhances your music experience with an intuitive TUI and seamless Spotify integration. Easily navigate your music library, access playlists, and get recommendations based on your listening habits. With customizable settings and efficient song management, Aurras makes music management enjoyable and efficient.</p>
     <p>⭐ 5 | 🍴 1</p>
   </div>
   
