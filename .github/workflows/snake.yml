@@ -17,10 +17,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Vedant-Asati03
-          # Fix: Use proper SVG output paths with correct format
+          # Fix: Change outputs format to match expected pattern
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
