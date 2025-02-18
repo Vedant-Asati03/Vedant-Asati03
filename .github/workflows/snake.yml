@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate snake game
 
 on:
   schedule:
@@ -7,26 +7,24 @@ on:
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Vedant-Asati03
-          # Fix: Change outputs format to match expected pattern
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-contribution-grid-snake2.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
