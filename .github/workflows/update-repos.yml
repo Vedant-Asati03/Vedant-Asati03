@@ -1,0 +1,36 @@
+name: Update Repository Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      
+      - name: Update Repository Stats
+        run: |
+          for i in {1..3}; do
+            if node .github/scripts/update-repos.js; then
+              exit 0
+            fi
+            echo "Attempt $i failed. Retrying..."
+            sleep 5
+          done
+          exit 1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update repository statistics" || exit 0
+          git push
