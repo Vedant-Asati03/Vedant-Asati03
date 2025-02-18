@@ -1,12 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=Vedant-Asati03)
 
-<!-- Intro  -->
+<!--
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣾⣿⣿⣿⣿⣿⣿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-->
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Vedant Asati</b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -42,7 +47,7 @@
 <br/>
 <br/>
 
-## Tools and Technologies
+## 🛠️ Tech Stack & Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -62,40 +67,54 @@
 
 ## Featured Repositories
 
-<!-- REPO-LIST-START -->
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
-    <h3><a href="https://github.com/Vedant-Asati03/Aurras" target="_blank">Aurras</a></h3>
-    <p>Your Ultimate Music Companion 🎵  Aurras enhances your music experience with an intuitive TUI and seamless Spotify integration. Easily navigate your music library, access playlists, and get recommendations based on your listening habits. With customizable settings and efficient song management, Aurras makes music management enjoyable and efficient.</p>
-    <p>⭐ 5 | 🍴 1</p>
+<div align="center">
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px; width: 300px; display: inline-block;">
+    <h3><a href="https://github.com/Vedant-Asati03/Aurras">Aurras</a></h3>
+    <p>Your Ultimate Music Companion 🎵 Aurras enhances your music experience with an intuitive TUI and seamless Spotify integration.</p>
+    <p>
+      <img src="https://img.shields.io/github/stars/Vedant-Asati03/Aurras?style=flat-square&color=7F3FBF"/>
+      <img src="https://img.shields.io/github/forks/Vedant-Asati03/Aurras?style=flat-square&color=7F3FBF"/>
+    </p>
   </div>
-  
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
-    <h3><a href="https://github.com/Vedant-Asati03/Tusk" target="_blank">Tusk</a></h3>
-    <p>🔥 Tusk: Where Vim meets sleek. Elevate your text game with ninja-worthy key bindings, real-time markdown magic, and an interface so smooth it could moonwalk. Whether you’re slinging code or crafting prose, Tusk’s got your back. 📝✨Feel free to Ctrl+C that brilliance!  Happy editing! 😄🚀🔍</p>
-    <p>⭐ 1 | 🍴 0</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px; width: 300px; display: inline-block;">
+    <h3><a href="https://github.com/Vedant-Asati03/Tusk">Tusk</a></h3>
+    <p>🔥 Tusk: Where Vim meets sleek. Elevate your text game with ninja-worthy key bindings and real-time markdown magic.</p>
+    <p>
+      <img src="https://img.shields.io/github/stars/Vedant-Asati03/Tusk?style=flat-square&color=7F3FBF"/>
+      <img src="https://img.shields.io/github/forks/Vedant-Asati03/Tusk?style=flat-square&color=7F3FBF"/>
+    </p>
   </div>
-  
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
-    <h3><a href="https://github.com/Vedant-Asati03/TerminalChess" target="_blank">TerminalChess</a></h3>
-    <p>Terminal Chess is a text-based chess game implemented in Python. It features a Text User Interface (TUI) using the Textual framework, allowing for mouse interactions and a visually appealing chessboard display.</p>
-    <p>⭐ 1 | 🍴 1</p>
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px; width: 300px; display: inline-block;">
+    <h3><a href="https://github.com/Vedant-Asati03/TerminalChess">TerminalChess</a></h3>
+    <p>A text-based chess game with a beautiful TUI using the Textual framework, featuring mouse interactions and visual chessboard.</p>
+    <p>
+      <img src="https://img.shields.io/github/stars/Vedant-Asati03/TerminalChess?style=flat-square&color=7F3FBF"/>
+      <img src="https://img.shields.io/github/forks/Vedant-Asati03/TerminalChess?style=flat-square&color=7F3FBF"/>
+    </p>
   </div>
-  
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 300px; box-shadow: 0 1px 3px rgba(27,31,35,0.12), 0 8px 24px rgba(27,31,35,0.12);">
-    <h3><a href="https://github.com/Vedant-Asati03/Yggdrasill" target="_blank">Yggdrasill</a></h3>
+  <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin: 16px; width: 300px; display: inline-block;">
+    <h3><a href="https://github.com/Vedant-Asati03/Yggdrasill">Yggdrasill</a></h3>
     <p>A terminal based directory tree generator with a sleek looking TUI for easy management of your projects.</p>
-    <p>⭐ 1 | 🍴 0</p>
+    <p>
+      <img src="https://img.shields.io/github/stars/Vedant-Asati03/Yggdrasill?style=flat-square&color=7F3FBF"/>
+      <img src="https://img.shields.io/github/forks/Vedant-Asati03/Yggdrasill?style=flat-square&color=7F3FBF"/>
+    </p>
   </div>
-  
-<!-- REPO-LIST-END -->
+</div>
 
 <br/>
 <hr/>
 <br/>
+
+## GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 <p align="center">
   <a href="https://github.com/Vedant-Asati03">
