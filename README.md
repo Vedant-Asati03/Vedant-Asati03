@@ -110,10 +110,7 @@
 <br/>
 
 ## GitHub Contributions
-<picture>
-<!-- ![snake animation](https://github.com/Vedant-Asati03/Vedant-Asati03/blob/output/github-contribution-grid-snake2.svg) -->
-![Snake animation](https://github.com/Vedant-Asati03/Vedant-Asati03/blob/output/github-contribution-grid-snake2.svg?raw=true)
-</picture>
+![GitHub Snake dark](https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
   <a href="https://github.com/Vedant-Asati03">
