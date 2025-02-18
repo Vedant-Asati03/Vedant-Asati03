@@ -111,9 +111,11 @@
 
 ## GitHub Contributions
 <picture>
+![snake animation](https://github.com/Vedant-Asati03/Vedant-Asati03/blob/output/github-contribution-grid-snake2.svg)
+  <!-- commented out old version
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-snake.svg"/> -->
 </picture>
 
 <p align="center">
