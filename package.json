@@ -4,9 +4,14 @@
   "description": "Update README with latest repository data",
   "main": "update-readme.js",
   "scripts": {
-    "start": "node update-readme.js"
+    "start": "node update-readme.js",
+    "prepare": "npm ci"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
-  }
+    "node-fetch": "2.6.7"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "private": true
 }
