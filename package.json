@@ -7,11 +7,7 @@
     "start": "node update-readme.js"
   },
   "dependencies": {
-    "node-fetch": "2.6.7",
-    "whatwg-url": "5.0.0"
-  },
-  "engines": {
-    "node": ">=14"
+    "node-fetch": "^2.7.0"
   },
   "private": true
 }
