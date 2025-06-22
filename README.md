@@ -17,8 +17,7 @@
 
 <p align="center">
  <a href="https://vedantasati.me" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=laptop&logoColor=white
-" alt="VedantAsati" />
+ <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=laptop&logoColor=white" alt="VedantAsati" />
  </a>
 
  <a href="www.linkedin.com/in/vedant-asati-063a56320" target="_blank">
