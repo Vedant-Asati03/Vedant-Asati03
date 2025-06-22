@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   update-readme:
@@ -14,21 +15,35 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '20'
           cache: 'npm'
 
       - name: Install Dependencies
         run: npm ci
 
       - name: Update README
-        run: node update-readme.js
+        run: |
+          echo "Running update-readme.js..."
+          node update-readme.js
+          echo "README update completed successfully"
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in README.md"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          fi
 
       - name: Configure Git
         run: |
@@ -36,8 +51,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
 
       - name: Commit and Push Changes
+        if: steps.verify-changed-files.outputs.changes == 'true'
         run: |
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest repository data" && git push)
+          git commit -m "Update README with latest repository data [automated]"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
