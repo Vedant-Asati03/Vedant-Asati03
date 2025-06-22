@@ -16,21 +16,22 @@
 </p>
 
 <p align="center">
- <a href="https://vedantasati.me" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=laptop&logoColor=white" alt="VedantAsati" />
- </a>
 
- <a href="www.linkedin.com/in/vedant-asati-063a56320" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VedantAsati" />
- </a>
+  <a href="https://vedantasati.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="VedantAsati" />
+  </a>
 
- <a href="https://x.com/VedantAsati03" target="_blank">
- <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="VedantAsati" />
- </a>
+  <a href="https://www.linkedin.com/in/vedant-asati-063a56320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="VedantAsati" />
+  </a>
 
- <a href="https://dev.to/vedantasati03" target="_blank">
- <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Vedant-Asati03" />
- </a> 
+  <a href="https://x.com/VedantAsati03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="VedantAsati" />
+  </a>
+
+  <a href="https://dev.to/vedantasati03" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=white" alt="Vedant-Asati03" />
+  </a>
 
 </p>
 
