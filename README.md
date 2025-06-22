@@ -17,7 +17,7 @@
 
 <p align="center">
  <a href="https://vedantasati.me" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white
+ <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=laptop&logoColor=white
 " alt="VedantAsati" />
  </a>
 
@@ -106,17 +106,17 @@
 ## GitHub Contributions
 ![GitHub Snake dark](https://raw.githubusercontent.com/Vedant-Asati03/Vedant-Asati03/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Vedant-Asati03">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Asati03&theme=radical&border=7F3FBF&background=0D1117" alt="Vedant Asati's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Vedant-Asati03">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedant-Asati03&theme=radical" alt="Vedant Asati's GitHub Contribution"/>
   </a>
-</p> -->
+</p>
 
 <a> 
     <a href="https://github.com/Vedant-Asati03"><img alt="Vedant Asati's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Vedant-Asati03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
