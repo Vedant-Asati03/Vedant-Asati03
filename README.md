@@ -6,7 +6,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://vedantasati.me">
+  <a href="https://vedant-asati03.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
